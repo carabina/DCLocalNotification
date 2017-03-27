@@ -1,4 +1,4 @@
-**DCLocalNotification** DCLocalNotification allow you to create a local notification in a easy way:
+**DCLocalNotification** DCLocalNotification allow you to create a local notification in a easy way.
 
 
 
