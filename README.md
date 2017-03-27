@@ -71,7 +71,7 @@ Open your project in Xcode from the .xcworkspace file (not the usual project fil
 $ open MyProject.xcworkspace
 ```
 
-You can now `import DCWriteAnimation` framework into your files.
+You can now `import DCLocalNotification` framework into your files.
 
 #### Manually
 
